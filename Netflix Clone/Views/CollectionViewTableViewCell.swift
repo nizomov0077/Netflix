@@ -19,6 +19,8 @@ class CollectionViewTableViewCell: UITableViewCell {
     
     private var movies: [Movies] = [Movies]()
     
+    private let a = 8
+    
     private let collectionView: UICollectionView = {
         
         let layout = UICollectionViewFlowLayout()
