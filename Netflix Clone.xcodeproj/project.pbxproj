@@ -16,6 +16,7 @@
 		CF67E98728C3A03200D83CF1 /* UpcomingVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF67E98628C3A03200D83CF1 /* UpcomingVM.swift */; };
 		CF67E98C28C3B5E000D83CF1 /* SearchResultVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF67E98B28C3B5E000D83CF1 /* SearchResultVC.swift */; };
 		CF7E368B28BB89E700C78681 /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF7E368A28BB89E700C78681 /* HeroHeaderUIView.swift */; };
+		CF9BB6E228D453F300D13942 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = CF9BB6E128D453F300D13942 /* .gitignore */; };
 		CFEC726028B877160002E335 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEC725F28B877160002E335 /* AppDelegate.swift */; };
 		CFEC726228B877160002E335 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEC726128B877160002E335 /* SceneDelegate.swift */; };
 		CFEC726428B877160002E335 /* MainTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEC726328B877160002E335 /* MainTabBarViewController.swift */; };
@@ -39,6 +40,7 @@
 		CF67E98628C3A03200D83CF1 /* UpcomingVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpcomingVM.swift; sourceTree = "<group>"; };
 		CF67E98B28C3B5E000D83CF1 /* SearchResultVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultVC.swift; sourceTree = "<group>"; };
 		CF7E368A28BB89E700C78681 /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
+		CF9BB6E128D453F300D13942 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		CFEC725C28B877160002E335 /* Netflix Clone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Netflix Clone.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFEC725F28B877160002E335 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CFEC726128B877160002E335 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 		CFEC725328B877160002E335 = {
 			isa = PBXGroup;
 			children = (
+				CF9BB6E128D453F300D13942 /* .gitignore */,
 				CFEC725E28B877160002E335 /* Netflix Clone */,
 				CFEC725D28B877160002E335 /* Products */,
 			);
@@ -243,6 +246,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CFEC726C28B877170002E335 /* LaunchScreen.storyboard in Resources */,
+				CF9BB6E228D453F300D13942 /* .gitignore in Resources */,
 				CFEC726928B877170002E335 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
