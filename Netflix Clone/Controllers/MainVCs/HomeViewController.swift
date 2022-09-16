@@ -20,7 +20,7 @@ class HomeViewController: UIViewController {
     private var randomTrendingMovies: Movies?
     private var headerView: HeroHeaderUIView?
     
-    let sectionTitles: [String] = ["Trending movies", "Popular", "Trending Tv", "Upcoming Movies", "Top rated"]
+    let sectionTitles: [String] = ["Trending Movies", "Popular", "Trending Tv", "Upcoming Movies", "Top Rated"]
     
     private let homeFeedTable: UITableView = {
         let table = UITableView( frame: .zero, style: .grouped)
